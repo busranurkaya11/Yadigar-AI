@@ -1,7 +1,7 @@
 # Yâdigâr AI — Dijital Refakatçi (v2)
 
 > Alzheimer hastaları ve yalnız yaşayan yaşlı bireyler için kişiselleştirilmiş yapay zekâ refakatçisi.
-> Proje temeli: "Söz Uçar Robot Kalır" — HAVACILIK, UZAY VE TEKNOLOJİ FESTİVALİ, #81370
+
 
 ---
 
